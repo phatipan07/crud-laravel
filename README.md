@@ -1,4 +1,4 @@
-## Laravel & Nginx
+## Laravel Basic CRUD
 
 ```sh
 docker-compose up
